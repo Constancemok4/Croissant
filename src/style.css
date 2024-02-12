@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+}
+
+h2, p {
+    text-align: center;
+}
+
+footer a {
+    color:green;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+}
+.croissant-photo {
+    margin: 10px auto;
+    border-radius: 8px;
+    display: block;
+}
